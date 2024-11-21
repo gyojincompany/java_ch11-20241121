@@ -33,7 +33,7 @@ public class MainClass1 {
 		int lotto2 = random.nextInt(45)+1;
 		System.out.println(lotto2); // 1~45 사이의 랜덤수
 		double ran1 = random.nextDouble(); //0~1
-		System.out.println(ran1); // 0~1 사이의 랜덤 실수
+		System.out.println(ran1); // 0~1 사이의 랜덤 실수 반환
 	}
 
 }
